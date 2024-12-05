@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\finalhomework\finalhomework\bin\Debug\net8.0\finalhomework.exe
+C:\Users\asus\source\repos\finalhomework\finalhomework\bin\Debug\net8.0\finalhomework.deps.json
+C:\Users\asus\source\repos\finalhomework\finalhomework\bin\Debug\net8.0\finalhomework.runtimeconfig.json
+C:\Users\asus\source\repos\finalhomework\finalhomework\bin\Debug\net8.0\finalhomework.dll
+C:\Users\asus\source\repos\finalhomework\finalhomework\bin\Debug\net8.0\finalhomework.pdb
+C:\Users\asus\source\repos\finalhomework\finalhomework\obj\Debug\net8.0\finalhomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\finalhomework\finalhomework\obj\Debug\net8.0\finalhomework.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\finalhomework\finalhomework\obj\Debug\net8.0\finalhomework.AssemblyInfo.cs
+C:\Users\asus\source\repos\finalhomework\finalhomework\obj\Debug\net8.0\finalhomework.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\finalhomework\finalhomework\obj\Debug\net8.0\finalhomework.dll
+C:\Users\asus\source\repos\finalhomework\finalhomework\obj\Debug\net8.0\refint\finalhomework.dll
+C:\Users\asus\source\repos\finalhomework\finalhomework\obj\Debug\net8.0\finalhomework.pdb
+C:\Users\asus\source\repos\finalhomework\finalhomework\obj\Debug\net8.0\finalhomework.genruntimeconfig.cache
+C:\Users\asus\source\repos\finalhomework\finalhomework\obj\Debug\net8.0\ref\finalhomework.dll
